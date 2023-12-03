@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 1640,
+    "articles": [
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Will Shanklin",
+    "title": "Reason's popular DAW finally gets native Apple Silicon support",
+    "description": "Reason Studios (formerly Propellerhead) announced today that Reason, its popular digital audio workstation and plugin suite, now natively runs on Apple M1 / M2 chips. After installing the new Reason 12.6 update, users can skip the slower speeds from Apple’s R…",
+    "url": "https://www.engadget.com/reasons-popular-daw-finally-gets-native-apple-silicon-support-164439189.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/62A_Zqks3P2f7JGN409tfA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/fc2d6d90-e904-11ed-b7fd-73b68760a17b.cf.jpg",
+    "publishedAt": "2023-05-02T16:44:39Z",
+    "content": "Reason Studios (formerly Propellerhead) announced today that Reason, its popular digital audio workstation and plugin suite, now natively runs on Apple M1 / M2 chips. After installing the new Reason … [+1701 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Kris Holt",
+    "title": "Apple and Google team up to tackle Bluetooth tracker stalking",
+    "description": "Apple and Google have announced a partnership to tackle the issue of unwanted tracking through the likes of AirTags and Tile devices. The companies have proposed industry standards \"to help combat the misuse of Bluetooth location-tracking devices for unwanted…",
+    "url": "https://www.engadget.com/apple-and-google-team-up-to-tackle-bluetooth-tracker-stalking-140516646.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/U7yMXE8bAksHmpB6IdXA.A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-05/a6e1eeb0-cc4f-11ec-bef9-3ebebcb882f8.cf.jpg",
+    "publishedAt": "2023-05-02T14:05:16Z",
+    "content": "Apple and Google have announced a partnership to tackle the issue of unwanted tracking through the likes of AirTags and Tile devices. The companies have proposed industry standards \"to help combat th… [+3121 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Jon Fingas",
+    "title": "Tinder's parent company is leaving Russia over a year after the Ukraine invasion",
+    "description": "Tech companies are still withdrawing from Russia more than a year after the country invaded Ukraine. Tinder owner Match Group has revealed that it will completely withdraw its dating app brands from the Russian market by the end of June. The firm says it's \"c…",
+    "url": "https://www.engadget.com/tinders-parent-company-is-leaving-russia-over-a-year-after-the-ukraine-invasion-141504660.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8FSiY3PL6EHCKNX_Hqy8Lg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2021-03/404a1d70-8665-11eb-b5e2-0db978356e27.cf.jpg",
+    "publishedAt": "2023-05-02T14:15:04Z",
+    "content": "Tech companies are still withdrawing from Russia more than a year after the country invaded Ukraine. Tinder owner Match Group has revealed that it will completely withdraw its dating app brands from … [+1237 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "Steve Dent",
+    "title": "Apple's iPad mini is back on sale for $400",
+    "description": "With an excellent blend of power and portability, Apple's 2021 iPad Mini tablet is a popular choice — but at $500, it's not exactly an impulse buy. If you've been waiting for a deal, the 64GB model is now on sale at Amazon and Target for $400 ($99 off) in fou…",
+    "url": "https://www.engadget.com/apples-ipad-mini-is-back-on-sale-for-400-124717156.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Xpk5_UMfIb3p_iUZSbnpxQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/aa39d350-e8e3-11ed-bfbb-aec6fa826110.cf.jpg",
+    "publishedAt": "2023-05-02T12:47:17Z",
+    "content": "With an excellent blend of power and portability, Apple's 2021 iPad Mini tablet is a popular choice but at $500, it's not exactly an impulse buy. If you've been waiting for a deal, the 64GB model is … [+1526 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Jess Weatherbed",
+    "title": "Hollywood writers are striking over low wages caused by streaming boom",
+    "description": "The Writers Guild of America (WGA) voted unanimously to strike for the first time in 15 years on Tuesday after contract negotiations with the major Hollywood studios collapsed.",
+    "url": "https://www.theverge.com/2023/5/2/23707813/wga-hollywood-writers-strike-2023-streaming-ai-wages-contract",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/p6E1NK7YVHpV4xFoEm1SEKxOBDk=/0x0:3000x1780/1200x628/filters:focal(1500x890:1501x891)/cdn.vox-cdn.com/uploads/chorus_asset/file/24626887/78131376.jpg",
+    "publishedAt": "2023-05-02T11:30:14Z",
+    "content": "The 2007 writers' strike (pictured above) lost California an estimated $2.1 billion and was credited with tipping the state into a recession. | Photo by Stephen Chernin/Getty Images\r\n\n \n\n As of today… [+5162 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Patrick George",
+    "title": "Hyundai Ioniq 6 review: a Tesla Model 3 fighter with art deco style",
+    "description": "The 2023 Hyundai Ioniq 6 is a sleek, stylish electric sedan that is likely the best direct competitor to the Tesla Model 3. And with a range of up to 361 miles, the Ioniq 6 can also outlast Elon Musk’s mass-market sedan on the road.",
+    "url": "https://www.theverge.com/23702900/hyundai-ioniq-6-review-ev-specs-photos-price",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/LfFh9s2tOCyMRm3m7WSR9Rm-NPU=/0x0:2400x1600/1200x628/filters:focal(1200x800:1201x801)/cdn.vox-cdn.com/uploads/chorus_asset/file/24625837/236637_Hyundai_Ioniq_6_PGeorge_0024.jpg",
+    "publishedAt": "2023-05-02T12:00:00Z",
+    "content": "Photo by Patrick George for The Verge\r\n\n \n\n\n The Ioniq 6 looks more interesting than it drives. That’s not a bad thing. The greatest trick Tesla ever pulled was convincing the world that electric veh… [+14183 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Apple fights $2 bln London lawsuit for 'throttling' millions of iPhones - Reuters",
+    "description": "Apple fights $2 bln London lawsuit for 'throttling' millions of iPhones  Reuters",
+    "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXBwbGUtZmlnaHRzLTItYmxuLWxvbmRvbi1sYXdzdWl0LXRocm90dGxpbmctbWlsbGlvbnMtaXBob25lcy0yMDIzLTA1LTAyL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage": null,
+    "publishedAt": "2023-05-02T12:58:00Z",
+    "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Google, Apple submit proposal to fight misuse of Bluetooth location ... - Reuters",
+    "description": "Google, Apple submit proposal to fight misuse of Bluetooth location ...  Reuters",
+    "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZ29vZ2xlLWFwcGxlLXN1Ym1pdC1wcm9wb3NhbC1maWdodC1taXN1c2UtYmx1ZXRvb3RoLWxvY2F0aW9uLXRyYWNraW5nLWRldmljZXMtMjAyMy0wNS0wMi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage": null,
+    "publishedAt": "2023-05-02T13:19:00Z",
+    "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "Google Pixel Fold Marketing Images and Specs Leak Ahead of June Launch",
+    "description": "Marketing renders of Google's long-rumored Pixel Fold have emerged online, including detailed hardware specifications, leaving seemingly little still to be revealed ahead of the device's expected official unveiling later this month.\n\n\n\n\n\nComing courtesy of th…",
+    "url": "https://www.macrumors.com/2023/05/02/pixel-fold-marketing-images-leak/",
+    "urlToImage": "https://images.macrumors.com/t/3CBFS450hXUZyxCRYp1CgOeSPBA=/1920x/article-new/2023/05/pixel-fold.jpg",
+    "publishedAt": "2023-05-02T13:15:37Z",
+    "content": "Marketing renders of Google's long-rumored Pixel Fold have emerged online, including detailed hardware specifications, leaving seemingly little still to be revealed ahead of the device's expected off… [+2032 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Max McHone",
+    "title": "Apple Pencil 2 Returns to All-Time Low of $89, Original Model Also on Sale - CNET",
+    "description": "Discounts on both generations of Apple's sleek stylus save you as much as $40.",
+    "url": "https://www.cnet.com/deals/apple-pencil-2-deal-all-time-low/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/f72ded37dfc685bfc0255bad5fffad3decc371ae/hub/2023/02/20/008e7875-d23b-41d4-b57e-19b78903b164/apple-pencil-2nd-gen.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-05-02T10:50:00Z",
+    "content": "Apple's sleek iPads are among our favorite tablets for creative types, and if you're an artist looking to make the most of yours, you'll also want to make sure you've got the compatible Apple Pencil … [+596 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Max McHone",
+    "title": "OnePlus 10 Pro Hits a New All-Time Low Price at $350 Off - CNET",
+    "description": "Get ultra-fast charging, an impressive 50MP camera, 5G connectivity and much more for just $450 right now at Amazon.",
+    "url": "https://www.cnet.com/deals/oneplus-10-pro-hits-new-all-time-low-price-350-off/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/c3e5021509df778ecb1657606a819c3adc141ee7/hub/2023/03/14/a64148f3-2373-458a-973e-e6bea83a58d9/oneplus-10-pro.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-05-02T11:08:11Z",
+    "content": "The smartphone market continues to grow, and big brands like Apple, Google and Samsung aren't the only ones with something to offer anymore. OnePlus makes some of our favorite phones for those lookin… [+1391 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "Microsoft Planning Privacy-Focused Version of ChatGPT as Apple AI Efforts Flounder",
+    "description": "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies, The Information reports.\n\n\n\n\n\nMicrosoft's Azure cloud server unit plans to offer a version of ChatGPT that runs on dedicated c…",
+    "url": "https://www.macrumors.com/2023/05/02/microsoft-planning-private-version-of-chatgpt/",
+    "urlToImage": "https://images.macrumors.com/t/01PJDK4giliGBSuyRJCCe_GrZqY=/2500x/article-new/2021/05/Apple-vs-Microsoft-feature.jpg",
+    "publishedAt": "2023-05-02T14:11:14Z",
+    "content": "Microsoft is planning to launch a privacy-focused version of ChatGPT amid Apple's apparent lack of grip on emerging AI technologies, The Information reports.\r\nMicrosoft's Azure cloud server unit plan… [+2630 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "Mandalit del Barco",
+    "title": "Writers Guild of America calls for a strike",
+    "description": "Members of the Writers Guild of America are asking for a larger piece of the streaming platforms' pie.",
+    "url": "https://www.npr.org/2023/05/02/1172876800/writers-guild-calls-strike",
+    "urlToImage": "https://media.npr.org/assets/img/2023/05/01/gettyimages-77732817-1-_wide-963d887503b3773e3b153238fde85d6b05612588-s1400-c100.jpg",
+    "publishedAt": "2023-05-02T04:45:30Z",
+    "content": "Members of the Writers Guild of America walk the picket line in 2007.\r\nSpencer Platt/Getty Images\r\nTelevision and film writers have begun the process of striking against major Hollywood studios: Netf… [+6378 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slashdot.org"
+    },
+    "author": "msmash",
+    "title": "Hollywood Writers Strike Over Pay Disputes with Streaming Giants, AI Concerns",
+    "description": "The Writers Guild of America, the union that bargains on behalf of Hollywood's screenwriters, has called a strike after negotiations with major studios failed to produce a favorable contract this week. From a report: The strike, which is the first involving W…",
+    "url": "https://tech.slashdot.org/story/23/05/02/1137249/hollywood-writers-strike-over-pay-disputes-with-streaming-giants-ai-concerns",
+    "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+    "publishedAt": "2023-05-02T14:00:00Z",
+    "content": "The strike, which is the first involving WGA to occur in 15 years, seeks to bring firms to the table on a host of issues, including higher pay and better working conditions. But some of the issues ar… [+1323 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Matthew Fox",
+    "title": "Apple reportedly attracted $1 billion in deposits into its new high-yield savings account in just 4 days",
+    "description": "More than 240,000 savings accounts were opened in the first four days of launch, which represents just 0.002% of Apple's US iPhone user base.",
+    "url": "https://markets.businessinsider.com/news/stocks/apple-gained-1-billion-new-deposits-high-yield-savings-account-2023-5",
+    "urlToImage": "https://i.insider.com/64512fa9a19cbe00192dbc94?width=1200&format=jpeg",
+    "publishedAt": "2023-05-02T16:40:38Z",
+    "content": "Apple CEO Tim Cook.Emma McIntyre/WireImage\r\n<ul><li>Apple gained nearly $1 billion in deposits into its new high-yield savings account in just four days, according to a Forbes report.</li><li>The iPh… [+1855 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Diamond Naga Siu",
+    "title": "10 Things in Tech: Free Apple AirTags, EV resistance, and ChatGPT Plus for all",
+    "description": "In today's edition: Twitter's last 1,000 employees, TikTok's owner could become a book publisher, and more headlines.",
+    "url": "https://www.businessinsider.com/jobs-apple-new-york-twitter-navy-tiktok-zoom-ai-chatgpt-2023-5",
+    "urlToImage": "https://i.insider.com/6446b3b3101b77001857b4cf?width=1200&format=jpeg",
+    "publishedAt": "2023-05-02T10:30:08Z",
+    "content": "It's tech Tuesday. I'm Diamond Naga Siu, and I've been working hard to meet people in San Diego. I attended my first rodeo, woke up early for a farmers' market, visited different pickleball venues, a… [+4469 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Beatrice Nolan",
+    "title": "The creator of a viral AI-generated Drake song says it's scary how easy it was to make the music sound real",
+    "description": "Jered Chavez, a student, told The Verge: \"I was very surprised how easy it was. Right out of the AI, it sounds pretty good.\"",
+    "url": "https://www.businessinsider.com/drake-ai-music-clone-easy-tiktok-2023-5",
+    "urlToImage": "https://i.insider.com/6450d892d40a8d0018fb5fda?width=1200&format=jpeg",
+    "publishedAt": "2023-05-02T10:54:24Z",
+    "content": "Drake featured in one of the student's AI-generated songs, which amassed more than 13 million TikTok views.Getty/Frazer Harrison\r\n<ul>\n<li>A student behind some popular AI-generated music says it was… [+2376 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Aditi Bharade",
+    "title": "Hollywood's writers are striking over pay, a move that will grind production on most TV shows to a halt",
+    "description": "Nightly talk shows like \"The Late Show with Stephen Colbert,\" \"Jimmy Kimmel Live!\" and \"The Tonight Show Starring Jimmy Fallon,\" are expected to halt.",
+    "url": "https://www.businessinsider.com/hollywood-writers-are-striking-over-pay-stopping-production-on-shows-2023-5",
+    "urlToImage": "https://i.insider.com/645093cbda6d7b0019bde57d?width=1200&format=jpeg",
+    "publishedAt": "2023-05-02T04:54:08Z",
+    "content": "The Writers Guild of America West.Michael Buckner/Variety/Penske Media via Getty Images\r\n<ul>\n<li>The Writers Guild of America will go on strike from Tuesday in protest of low pay. </li>\n<li>11,500 m… [+2254 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Sindhu Sundar,Lucia Moses",
+    "title": "What the Hollywood writers' strike could mean for your favorite TV shows, from 'Abbot Elementary' to 'Saturday Night Live'",
+    "description": "As members of the Writers Guild of America plan to hit the picket lines Tuesday, popular Hollywood productions could slow in the next year.",
+    "url": "https://www.businessinsider.com/what-hollywood-writers-wga-strike-means-for-tv-shows-movies",
+    "urlToImage": "https://i.insider.com/631a48700a329a0011e38af1?width=1200&format=jpeg",
+    "publishedAt": "2023-05-02T04:50:35Z",
+    "content": "The Hollywood writers' strike will more immediately impact late night shows and broadcast television.Reed Saxon/AP\r\n<ul>\n<li>Hollywood writers have voted to strike after their contract expired at mid… [+5716 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Kirstie McDermott",
+    "title": "Tech job opportunities remain strong despite layoffs — here’s why",
+    "description": "If you’ve been reading about the current state of the tech industry in traditional media reports, you’d be forgiven for assuming that the industry is trembling on a precipice, about to plunge into the inky abyss. The truth, though, is somewhat more nuanced. W…",
+    "url": "https://thenextweb.com/news/tech-job-opportunities-strong-despite-layoffs",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FAdd-a-heading.jpg&signature=98905ae5c45f7d78abc513aa6ccff6dc",
+    "publishedAt": "2023-05-02T08:30:20Z",
+    "content": "If youve been reading about the current state of the tech industry in traditional media reports, youd be forgiven for assuming that the industry is trembling on a precipice, about to plunge into the … [+4854 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Samantha Kubota",
+    "title": "Rihanna: ‘Thank God you guys waited’ after she arrives an hour and a half late to Met Gala",
+    "description": "Musicians Rihanna and A$AP Rocky were the last to arrive at the 2023 Met Gala, nearly an hour and and a half late.",
+    "url": "https://news.yahoo.com/rihanna-thank-god-guys-waited-060154091.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_hDSn9JtN2JHKY3frswN6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzI-/https://media.zenfs.com/en/nbc_today_217/206396d7761acb417838f36f4be2a37f",
+    "publishedAt": "2023-05-02T06:01:54Z",
+    "content": "Musicians Rihanna and A$AP Rocky were the last to arrive at the 2023 Met Gala, nearly an hour and a half late.\r\nThey followed the arrival of Cardi B, who walked the carpet at about 8:45 p.m. ET, acco… [+2160 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Lacort",
+    "title": "La cuenta de ahorro de Apple se estrena en EEUU. En cuatro días va camino de ganar lo mismo con ella que vendiendo 200.000 iPhone",
+    "description": "A mediados de abril, Apple estrenó un nuevo producto financiero, una cuenta de ahorro remunerada mediante la que lanzó un desafío a la banca tradicional. De esta cuenta sabíamos que solo iba a estar disponible para los usuarios de la Apple Card, a su vez algo…",
+    "url": "https://www.xataka.com/empresas-y-economia/cuenta-ahorro-apple-se-estrena-eeuu-cuatro-dias-va-camino-ganar-ella-que-vendiendo-200-000-iphone",
+    "urlToImage": "https://i.blogs.es/cb7389/cook/840_560.jpeg",
+    "publishedAt": "2023-05-02T15:00:38Z",
+    "content": "A mediados de abril, Apple estrenó un nuevo producto financiero, una cuenta de ahorro remunerada mediante la que lanzó un desafío a la banca tradicional. De esta cuenta sabíamos que solo iba a estar … [+4410 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Ricardo Aguilar",
+    "title": "Las tecnológicas se propusieron erradicar las contraseñas. Estamos muy lejos de conseguirlo",
+    "description": "Mayo de 2022, Google desvela sus planes para acabar con las contraseñas. Un plan para implementar el estándar FIDO, claves de acceso para desbloquear los inicios de sesión sin necesidad de introducir contraseñas. Algo similar anunció Apple con sus Passkeys. E…",
+    "url": "https://www.xataka.com/aplicaciones/tecnologicas-se-propusieron-erradicar-contrasenas-estamos-muy-lejos-conseguirlo",
+    "urlToImage": "https://i.blogs.es/c381d9/1366_2000-1/840_560.jpeg",
+    "publishedAt": "2023-05-02T12:00:39Z",
+    "content": "Mayo de 2022, Google desvela sus planes para acabar con las contraseñas. Un plan para implementar el estándar FIDO, claves de acceso para desbloquear los inicios de sesión sin necesidad de introducir… [+3366 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Lacort",
+    "title": "Apple y Google se alían para para evitar rastreos indeseados con los AirTag y compañía. Es una solución a un problema creciente",
+    "description": "Apple acaba de anunciar a través de una nota de prensa que se está aliando con Google para evitar que los rastreadores de objetos, como el AirTag, se utilicen para espiar a personas sin su conocimiento ni consentimiento.\n<!-- BREAK 1 -->\nEste es un paso más e…",
+    "url": "https://www.xataka.com/privacidad/apple-google-se-alian-para-para-evitar-rastreos-indeseados-airtag-compania-solucion-a-problema-creciente",
+    "urlToImage": "https://i.blogs.es/d3f877/mark-chan-wp7tjkvuoqu-unsplash/840_560.jpeg",
+    "publishedAt": "2023-05-02T13:34:34Z",
+    "content": "Apple acaba de anunciar a través de una nota de prensa que se está aliando con Google para evitar que los rastreadores de objetos, como el AirTag, se utilicen para espiar a personas sin su conocimien… [+2919 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Jose García",
+    "title": "Nueva York tiene un problema con el robo de coches. La solución de la policía: regalar unos AirTags",
+    "description": "En Nueva York hay un serio problema con el robo de coches. Tras el auge de un reto viral llamado \"Kia Challenge\", la ciudad ha experimentado un aumento importante de los robos de coches, particularmente de las marcas Kia y Hyundai. En lo que va de año, y segú…",
+    "url": "https://www.xataka.com/movilidad/nueva-york-tiene-problema-robo-coches-solucion-policia-regalar-unos-airtags",
+    "urlToImage": "https://i.blogs.es/fbaaf1/airtag/840_560.jpeg",
+    "publishedAt": "2023-05-02T10:00:41Z",
+    "content": "En Nueva York hay un serio problema con el robo de coches. Tras el auge de un reto viral llamado \"Kia Challenge\", la ciudad ha experimentado un aumento importante de los robos de coches, particularme… [+3701 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "@tucson_police"
+    },
+    "author": "John Gruber",
+    "title": "NYPD Is Encouraging New Yorkers to Plant AirTags in Their Cars for Theft Recovery",
+    "description": null,
+    "url": "https://twitter.com/NYPDChiefOfDept/status/1652759702697017345",
+    "urlToImage": null,
+    "publishedAt": "2023-05-02T01:35:11Z",
+    "content": "NYPD chief Jeffrey Maddrey, on Twitter:\n\n\n The 21st century calls for 21st century policing. AirTags in\nyour car will help us recover your vehicle if it’s stolen. We’ll\nuse our drones, our StarChase … [+990 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Andrew Liszewski",
+    "title": "Lego Recreated a VHS Copy of The Little Mermaid From Plastic Bricks And It's Nostalgic as Hell",
+    "description": "Image: Lego\r\nAlthough I’m now just a few screen taps away from watching nearly every Disney animated movie ever released, this new Lego set, featuring a brick-built recreation of a VHS copy of The Little Mermaid, is making me nostalgic for a time when my shel…",
+    "url": "https://gizmodo.com/lego-disney-villain-icons-price-release-date-minifigure-1850394580",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7d9910f875a5bafc835db8f3aa58248c.jpg",
+    "publishedAt": "2023-05-02T16:00:00Z",
+    "content": "Although Im now just a few screen taps away from watching nearly every Disney animated movie ever released, this new Lego set, featuring a brick-built recreation of a VHS copy of The Little Mermaid, … [+1963 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Leo Becker",
+    "title": "Stalking durch AirTags & Co: Apple und Google wollen gemeinsam gegensteuern",
+    "description": "Ein Branchenstandard soll dafür sorgen, dass Android und iOS vor Bluetooth-Trackern warnen. Neben Apple und Google sind Hersteller wie Tile und Samsung an Bord.",
+    "url": "https://www.heise.de/news/Stalking-durch-AirTags-Co-Apple-und-Google-wollen-gemeinsam-gegensteuern-8985102.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/8/0/7/AirTag-6_tre-a44b6dc759f4abc5.jpeg",
+    "publishedAt": "2023-05-02T13:56:00Z",
+    "content": "Android und iOS sollen auf Betriebssystemebene vor unerwünschtem Tracking schützen. Dafür arbeiten die Betriebssystemhersteller Apple und Google erneut zusammen: Ein neuer Industriestandard schaffe d… [+2248 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Schnelles Update: Erstmals Rapid Security Response von Apple für iOS und maOS",
+    "description": "Schnellere Aktualisierung: Apple kann seine Betriebssysteme nun mit RSRs auf dem neuesten Stand halten. Was das für Nutzer konkret heißt.",
+    "url": "https://www.heise.de/news/Schnelles-Update-Erstmals-Rapid-Security-Response-von-Apple-fuer-iOS-und-maOS-8984287.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/3/7/6/ios16-preview-54073b0a544e4935.png",
+    "publishedAt": "2023-05-02T07:47:00Z",
+    "content": "Apple hat in der Nacht zum Dienstag zum ersten Mal überhaupt eine neue Aktualisierungstechnik für iOS 16, iPadOS 16 und macOS 13 öffentlich angewendet. Mit der sogenannten Rapid Security Response (RS… [+2636 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Marie-Claire Koch",
+    "title": "Netflix und Disney betroffen: Drehbuchautoren bestreiken Streamingplattformen",
+    "description": "Rund 11.500 Drehbuchautoren bestreiken Streamingdienste wie Netflix, Disney, Amazon, Apple, Sony und Co. Zuvor waren Tarifverhandlungen gescheitert.",
+    "url": "https://www.heise.de/news/Netflix-und-Disney-betroffen-Drehbuchautoren-bestreiken-Streamingplattformen-8984421.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/4/5/1/shutterstock_450682405-fdddc8ab173a25c5.jpg",
+    "publishedAt": "2023-05-02T10:13:00Z",
+    "content": "Rund 11.500 Drehbuchautoren der Writers Guild of America East (WGAE) und West (WGAW) in den USA haben für heute einen Streik angekündigt, mit möglicherweise weitreichenden Auswirkungen auf Streamingd… [+2337 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan, Mark Zimmermann",
+    "title": "heise+ | Einfallstor iPhone-PIN: Sicherheit am seidenen Faden",
+    "description": "iPhone und PIN geklaut, digitales Leben übernommen: Lesen Sie, wie eine aktuelle Betrugsmasche gegen Apple-Nutzer funktioniert und wie Sie sich schützen können.",
+    "url": "https://www.heise.de/ratgeber/Sicherheit-am-seidenen-Faden-8981175.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/0/7/0/8/iphone_pin-dfbc24e5c8d4201d.jpg",
+    "publishedAt": "2023-05-02T07:30:00Z",
+    "content": "Inhaltsverzeichnis\r\nDerzeit macht eine Betrugsmasche in den USA, Europa und Asien von sich reden, bei der Apple-User ihre ganze digitale Existenz verlieren können (siehe auch Editorial in Mac &amp; i… [+2178 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Smartere Siri: Es knirscht in Apples KI-Abteilung",
+    "description": "Microsoft, Google & Co. stecken Milliarden in KI. Bei Apple tut sich gefühlt wenig. Das liegt auch an \"organisatorischer Dysfunktionalität\", behaupten Insider.",
+    "url": "https://www.heise.de/news/Smartere-Siri-Es-knirscht-in-Apples-KI-Abteilung-8984087.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/2/7/2/siriquest-33575bf4e4963638.png",
+    "publishedAt": "2023-05-02T07:58:00Z",
+    "content": "Während große Konkurrenten wie Microsoft oder Google massiv viel Geld in die Hand nehmen und erste Produkte präsentieren, die Künstliche Intelligenz auf Basis großer Sprachmodelle (Large Language Mod… [+3442 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Eva-Maria Weiß",
+    "title": "Big Tech ist zurück – wie nachhaltig ist die Stärke?",
+    "description": "Ausrufezeichen aus Silicon Valley und Seattle: Die wertvollsten Techkonzerne der Welt liefern starke Bilanzen. Fraglich, ob der Trend an der Wall Street hält.",
+    "url": "https://www.heise.de/hintergrund/Big-Tech-ist-zurueck-wie-nachhaltig-ist-die-Staerke-8984342.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/4/0/8/GAFA2-7bd9da62e76b91fd.jpg",
+    "publishedAt": "2023-05-02T07:59:00Z",
+    "content": "Inhaltsverzeichnis\r\nWelch einen Unterschied ein halbes Jahr machen kann. Gerade sechs Monate ist es her, als die Welt für die wertvollsten Unternehmen der Welt einzustürzen schien. Die sogenannten GA… [+3838 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Malte Kirchner",
+    "title": "Amazon erweitert Matter-Unterstützung: Weitere Geräte und iOS-Support",
+    "description": "Amazon stattet weitere Echo-Geräte mit Matter-Support aus. Außerdem ist ab sofort die Einrichtung von Matter-fähigen Geräten unter iOS möglich.",
+    "url": "https://www.heise.de/news/Amazon-erweitert-Matter-Unterstuetzung-Weitere-Geraete-und-iOS-Support-8985087.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/7/9/7/shutterstock_1786130027-14406d6c0a5ff027.jpg",
+    "publishedAt": "2023-05-02T16:00:00Z",
+    "content": "Amazon erweitert seine Unterstützung des Smart-Home-Standards Matter. Ab sofort können Matter-fähige Geräte inklusive Matter-fähiger Thread-Modelle auch über iOS für den Gebrauch mit Alexa eingericht… [+1787 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Gegen Autodiebstahl: New Yorker Polizei verteilt AirTags",
+    "description": "In New York ist eine Kampagne gestartet, mit der die Polizei die Verwendung von Apples AirTags in Autos steigern will. 500 Stück werden sogar gratis verteilt.",
+    "url": "https://www.heise.de/news/Gegen-Autodiebstahl-New-Yorker-Polizei-verteilt-AirTags-8984338.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/1/5/2/4/0/6/shutterstock_1976240372-d8e48f30c7633efd.jpg",
+    "publishedAt": "2023-05-02T09:23:00Z",
+    "content": "Dass eine Polizeibehörde offensiv zur Verwendung eines bestimmten Produkts auffordert, ist schon ziemlich ungewöhnlich doch genau das passiert derzeit in New York. Das für die Metropole zuständige Ne… [+2298 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple confirms outage impacting some Apple Pay, Apple Card, and Apple Cash features",
+    "description": "A handful of Apple’s financial services are experiencing an outage this morning, according to the company’s System Status webpage. Apple says that services including Apple Pay, Apple Card, and Apple Cash are all facing downtime this morning. \n more…\nThe post …",
+    "url": "https://9to5mac.com/2023/05/02/apple-confirms-outage-impacting-some-apple-pay-apple-card-and-apple-cash-features/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/South-Korea-Apple-Pay.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T15:43:49Z",
+    "content": "A handful of Apple’s financial services are experiencing an outage this morning, according to the company’s System Status webpage. Apple says that services including Apple Pay, Apple Card, and Apple … [+1137 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple vs. Masimo court battle ends in mistrial; jury 6-1 in favor of Apple",
+    "description": "The Apple vs Masimo court battle has ended in a mistrial, after six of the jurors found that Apple had not stolen trade secrets to create the O2 sensor in the Apple Watch – but the seventh juror disagreed.\nThe judge had already rejected half of Masimo’s paten…",
+    "url": "https://9to5mac.com/2023/05/02/apple-vs-masimo-mistrial/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-vs-Masimo-mistrial.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T11:28:24Z",
+    "content": "The Apple vs. Masimo court battle has ended in a mistrial, after six of the jurors found that Apple had not stolen trade secrets to create the O2 sensor in the Apple Watch but the seventh juror disag… [+3741 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple is still battling the fallout from iPhone’s Batterygate throttling controversy",
+    "description": "Years later, Apple is still facing ramifications for its controversial decision to throttle older iPhones as their battery health degraded. As reported today by Reuters, Apple is currently battling a $2 billion lawsuit in the United Kingdom over this decision…",
+    "url": "https://9to5mac.com/2023/05/02/apple-iphone-batterygate-lawsuit-uk/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/ios-16-battery-life.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T16:32:34Z",
+    "content": "Years later, Apple is still facing ramifications for its controversial decision to throttle older iPhones as their battery health degraded. As reported today by Reuters, Apple is currently battling a… [+2219 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Apple slashes 56 drivers from its autonomous vehicle testing program",
+    "description": "At the beginning of the year, Apple hit a high point with 201 drivers registered for its autonomous vehicle testing. Now data from the California DMV shows that Apple has made a significant staffing change by eliminating 56 drivers from the pilot program.\n mo…",
+    "url": "https://9to5mac.com/2023/05/02/apple-slashes-56-drivers-autonomous-vehicle-program/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/09/Apple-autonomous-car.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T15:59:18Z",
+    "content": "At the beginning of the year, Apple hit a high point with 201 drivers registered for its autonomous vehicle testing. Now data from the California DMV shows that Apple has made a significant staffing … [+1047 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple Bank: Ten years on, the idea seems a lot less out-there",
+    "description": "It’s almost a decade since I first suggested that we might one day see an Apple Bank. Given that not even Apple Pay existed back then, I’ll be the first to admit that it seemed a pretty out-there idea at the time. \nBy 2015, it seemed significantly less of a s…",
+    "url": "https://9to5mac.com/2023/05/02/apple-bank/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Bank-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T14:52:31Z",
+    "content": "It’s almost a decade since I first suggested that we might one day see an Apple Bank. Given that not even Apple Pay existed back then, I’ll be the first to admit that it seemed a pretty out-there ide… [+6912 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Hands-on: The hardback Steve Jobs ‘Make Something Wonderful’ book gifted to Apple and Disney employees",
+    "description": "The Steve Jobs Archive was formally introduced last fall, and in April the organization announced its first published work, Make Something Wonderful. While only available as a downloadable ebook to the general public, Apple and Disney employees were gifted ph…",
+    "url": "https://9to5mac.com/2023/05/02/steve-jobs-archive-hardback-make-something-wonderful/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/steve-jobs-archive-book0009.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T15:01:51Z",
+    "content": "The Steve Jobs Archive was formally introduced last fall, and in April the organization announced its first published work, Make Something Wonderful. While only available as a downloadable ebook to t… [+2543 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Steve Jobs signed check up for auction alongside NeXT business card",
+    "description": "After seeing a wave of sealed original iPhones go up for auction over the last few months, a new Apple memorabilia lot is up for grabs. Here are all the details on the Steve Jobs signed Apple Computer Company check from 1976, a Jobs NeXT business card, and mo…",
+    "url": "https://9to5mac.com/2023/05/02/steve-jobs-signed-check-up-auction/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/steve-jobs-signed-check-auction.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T15:24:51Z",
+    "content": "After seeing a wave of sealed original iPhones go up for auction over the last few months, a new Apple memorabilia lot is up for grabs. Here are all the details on the Steve Jobs signed Apple Compute… [+1888 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Seth Kurkowski",
+    "title": "9to5Mac Daily: May 2, 2023 – AirTags for stolen cars and more",
+    "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nEnjoy the podcast? Shop \n\r\n\n …",
+    "url": "https://9to5mac.com/2023/05/02/daily-may-2-2023/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T14:16:16Z",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+705 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Uber Eats delivering order tracking on iPhone with Live Activities and Dynamic Island",
+    "description": "Uber Eats customers will soon be able to track food deliveries on iPhone without launching the app or being bothered with notifications. Live Activity support already launched for Uber’s ride-sharing app, but Uber Eats has only tested support in limited marke…",
+    "url": "https://9to5mac.com/2023/05/02/wheres-my-uber-eats-dynamic-island/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/iPhone-14-Pro-Dynamic-Island.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T16:05:26Z",
+    "content": "Uber Eats customers will soon be able to track food deliveries on iPhone without launching the app or being bothered with notifications. Live Activity support already launched for Uber’s ride-sharing… [+2035 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Do you plan to buy the 15-inch MacBook Air following likely WWDC launch?",
+    "description": "While both Bloomberg’s Mark Gurman and display analyst Ross Young originally expected Apple to announce the upcoming 15-inch MacBook Air at a spring event, that’s looking less and less likely now that we’re into May – and WWDC is approaching.\nGurman now expec…",
+    "url": "https://9to5mac.com/2023/05/02/15-inch-macbook-air-poll/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/15-inch-MacBook-Air-render.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T12:38:54Z",
+    "content": "While both Bloomberg’s Mark Gurman and display analyst Ross Young originally expected Apple to announce the upcoming 15-inch MacBook Air at a spring event, that’s looking less and less likely now tha… [+3357 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Apple’s Safari is once again the world’s second most used desktop web browser",
+    "description": "Safari is Apple’s web browser that comes pre-installed on every Mac, iPhone, and iPad. Even so, it lost the second place to Microsoft Edge in the ranking of the world’s most popular web browsers last year. But new data shows that Apple’s web browser has again…",
+    "url": "https://9to5mac.com/2023/05/01/safari-second-most-used-web-browser/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/safari.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T00:48:35Z",
+    "content": "Safari is Apple’s web browser that comes pre-installed on every Mac, iPhone, and iPad. Even so, it lost the second place to Microsoft Edge in the ranking of the world’s most popular web browsers last… [+1854 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Rikka Altland",
+    "title": "Deals: 16-inch M1 Pro MacBook Pro now $800 off, official 10.9-inch iPad Magic Keyboard $220, more",
+    "description": "All of Tuesday’s best deals are all in one place below the fold. Courtesy of our friends at 9to5Toys, the savings today kick off with Apple’s 16-inch M1 Pro MacBook Pro, which comes outfitted with 32GB RAM at $800 off. That’s joined by Apple’s official Magic …",
+    "url": "https://9to5mac.com/2023/05/02/deals-m1-pro-macbook-pro-ipad-magic-keyboard/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/11/F25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T15:51:35Z",
+    "content": "All of Tuesday’s best deals are all in one place below the fold. Courtesy of our friends at 9to5Toys, the savings today kick off with Apples 16-inch M1 Pro MacBook Pro, which comes outfitted with 32G… [+4705 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Study reveals top 20 most used passwords; 83% can be cracked in a second",
+    "description": "Ahead of World Password Day on May 4, NordPass has released a report showing that “password habits die hard” with a list of the most used passwords in the US and 29 other countries. For the US, many of the usual suspects are on the list, however, this time ar…",
+    "url": "https://9to5mac.com/2023/05/02/most-used-passwords-report/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/most-used-passwords-report.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-05-02T13:48:27Z",
+    "content": "Ahead of World Password Day on May 4, NordPass has released a report showing that “password habits die hard” with a list of the most used passwords in the US and 29 other countries. For the US, many … [+2735 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Tyler Lacoma",
+    "title": "ChromeOS: The AP guide to Google's desktop operating system",
+    "description": "ChromeOS is common on Chromebooks, but is it right for you? Let's take a look at everything that makes ChromeOS unique",
+    "url": "https://www.androidpolice.com/google-chrome-os-in-depth-guide/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/12/chromeos-status-area.jpg",
+    "publishedAt": "2023-05-02T08:25:16Z",
+    "content": "While Microsoft produces computers designed for Windows and Apple MacBooks are built for macOS, Google computers like Chromebooks have their unique operating system called ChromeOS. If you're thinkin… [+11126 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Police"
+    },
+    "author": "Suzanne Humphries",
+    "title": "Best network-connected printers in 2023",
+    "description": "Print documents, photos, and more with these great wireless printers.",
+    "url": "https://www.androidpolice.com/best-network-connected-printer-in-2023/",
+    "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/04/best-network-connected-printer-hero.jpg",
+    "publishedAt": "2023-05-02T10:31:16Z",
+    "content": "With a network-connected printer, also known as a wireless printer, you can print a document or photo from any device on your Wi-Fi network. Instead of being stuck printing from a single computer, th… [+16709 chars]"
+    },
+    {
+    "source": {
+    "id": "vice-news",
+    "name": "Vice News"
+    },
+    "author": "Magdalene Taylor, Duncan Cooper",
+    "title": "The Latest Trend in Podcasts Is Making Women Look Dumb",
+    "description": "The ‘Whatever’ podcast is bait. You can stop falling for it.",
+    "url": "https://www.vice.com/en/article/4a3wng/whatever-dating-podcast-brian-atlas",
+    "urlToImage": "https://video-images.vice.com/articles/645128008568e2b3d7570cb1/lede/1683040427536-4252023whateverpodcast2cvsite-lede.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45OTk5MDIxMTQzMzA0NjJ4aDtjZW50ZXIsY2VudGVyJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+    "publishedAt": "2023-05-02T16:24:01Z",
+    "content": "What does it take to have a successful podcast these days? A committed schedule? High-quality audio? Thoughtful topics? All of that probably helps. But as the Whatever podcast demonstrates, all you r… [+7271 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Autoblog"
+    },
+    "author": "Joel Stocksdale",
+    "title": "2023 Honda CR-V Sport Touring Interior Review: Clean, classy, quality",
+    "description": "Filed under:\n Green,Honda,Crossover,SUV,Hybrid,Driveway Tests\n Continue reading 2023 Honda CR-V Sport Touring Interior Review: Clean, classy, quality\n2023 Honda CR-V Sport Touring Interior Review: Clean, classy, quality originally appeared on Autoblog on Tue,…",
+    "url": "https://www.autoblog.com/2023/05/02/2023-honda-crv-interior-review-sport-touring-hybrid/",
+    "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/10/13155605/2023-Honda-CR-V-Sport-Touring-interior-from-driver.jpg",
+    "publishedAt": "2023-05-02T12:00:00Z",
+    "content": "We're at a fairly experimental time when it comes to car design, particularly with interiors. All kinds of displays and buttons and arrangements are being tried, all in an effort to stand out. And wh… [+4553 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Apple Pay, Apple Card, Apple Cash all hit by simultaneous outage",
+    "description": "Apple Pay, Apple Card, and Apple Cash are suffering a rare outage, which may cause problems for some users attempting to make purchases using Apple's payment services.Apple PayApple's System Status indicates that there are \"issues\" with Apple Pay & Wallet, Ap…",
+    "url": "https://appleinsider.com/articles/23/05/02/apple-pay-apple-card-apple-cash-all-hit-by-simultaneous-outage",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54248-109388-53562-107600-Apple-Pay-xl-xl.jpg",
+    "publishedAt": "2023-05-02T15:49:51Z",
+    "content": "Apple Pay\r\nApple Pay, Apple Card, and Apple Cash are suffering a rare outage, which may cause problems for some users attempting to make purchases using Apple's payment services. \r\nApple's System Sta… [+781 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Jess Pingrey)",
+    "title": "Daily deals: $800 off MacBook Pro, Apple Watch from $113, extra 20% off open box Apple devices",
+    "description": "Today's best deals include 64% off Skullcandy Riff wireless headphones, Apple Watch Series 4 from $114, 71% off a 14\" ThinkPad T14s Gen 2 Intel, and up to 53% off Amazon Fire kids tablets.Save $600 on a M1 MacBook ProThe AppleInsider crew searches the web for…",
+    "url": "https://appleinsider.com/articles/23/05/02/daily-deals-800-off-macbook-pro-apple-watch-from-113-extra-20-off-open-box-apple-devices",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54236-109356-daily-deals-May-2-xl.jpg",
+    "publishedAt": "2023-05-02T15:57:09Z",
+    "content": "Save $600 on a M1 MacBook Pro\r\nToday's best deals include 64% off Skullcandy Riff wireless headphones, Apple Watch Series 4 from $114, 71% off a 14\" ThinkPad T14s Gen 2 Intel, and up to 53% off Amazo… [+3426 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Apple manufacturer Wistron said to be closing down in India",
+    "description": "Wistron, Apple's assembly partner for the iPhone SE, is allegedly preparing to wind down most of its operations in India, with the company rumored to withdraw most of itself from the country over the next year.WistronAs an Apple supplier, Wistron has been wor…",
+    "url": "https://appleinsider.com/articles/23/05/02/apple-manufacturer-wistron-said-to-be-closing-down-in-india",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54242-109354-wistron-building-xl.jpg",
+    "publishedAt": "2023-05-02T11:21:19Z",
+    "content": "Wistron\r\nWistron, Apple's assembly partner for the iPhone SE, is allegedly preparing to wind down most of its operations in India, with the company rumored to withdraw most of itself from the country… [+1868 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Apple and Google are working together to reduce AirTag & other tracker stalking",
+    "description": "Apple and Google are partnering to make it harder for tracking beacons like AirTag to be used for stalking, by proposing a standard to prevent misuse.AirTagWhile intended to keep track of lost items, products like AirTag have also been used for malicious purp…",
+    "url": "https://appleinsider.com/articles/23/05/02/apple-and-google-are-working-together-to-reduce-airtag-other-tracker-stalking",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54246-109376-53177-106569-000-lead-AirTags-xl-xl.jpg",
+    "publishedAt": "2023-05-02T13:20:54Z",
+    "content": "AirTag\r\nApple and Google are partnering to make it harder for tracking beacons like AirTag to be used for stalking, by proposing a standard to prevent misuse. \r\nWhile intended to keep track of lost i… [+1264 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Despite Q1 releases, Apple predicted to report bad hardware sales figures",
+    "description": "Apple is predicted to have a drop in revenue year-over-year for Q2 2023, according to TD Cowen, with results forecast to show declines in iPhone, iPad, and Mac for the quarter.iPhone 14Apple will be releasing its financial results for the second quarter of 20…",
+    "url": "https://appleinsider.com/articles/23/05/02/despite-q1-releases-apple-predicted-to-report-bad-hardware-sales-figures",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54244-109374-54180-109170-iPhone-14-Plus-xl-xl.jpg",
+    "publishedAt": "2023-05-02T12:59:52Z",
+    "content": "iPhone 14\r\nApple is predicted to have a drop in revenue year-over-year for Q2 2023, according to TD Cowen, with results forecast to show declines in iPhone, iPad, and Mac for the quarter. \r\nApple wil… [+1650 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Early Apple check signed by Steve Jobs could sell for big money",
+    "description": "A check signed by Steve Jobs may be worth thousands more at auction, than what's written on it.Steve Jobs-signed check [RR Auctions]Lot 192 of RR Auctions' \"Fine Autograph and Artifacts Featuring Major Figures of Science and Technology\" will be of interest to…",
+    "url": "https://appleinsider.com/articles/23/05/02/early-apple-check-signed-by-steve-jobs-could-sell-for-big-money",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54243-109355-jobs-check-xl.jpg",
+    "publishedAt": "2023-05-02T11:46:20Z",
+    "content": "Steve Jobs-signed check [RR Auctions]\r\nA check signed by Steve Jobs may be worth thousands more at auction, than what's written on it.\r\nLot 192 of RR Auctions' \"Fine Autograph and Artifacts Featuring… [+1053 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Final Cut Pro with feature parity due on iPad by 2024, claims iffy rumor",
+    "description": "Creative professionals have a while longer to wait before being able to use Apple's \"Pro\" apps on an iPad, a leaker alleges, with a full version of Final Cut Pro due in 2024 and Logic Pro to follow.Final Cut Pro on a MacAfter Apple introduced the iPad Pro wit…",
+    "url": "https://appleinsider.com/articles/23/05/02/final-cut-pro-with-feature-parity-due-on-ipad-by-2024-claims-iffy-rumor",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54241-109353-49812-97611-Final-Cut-Pro-xl-xl.jpg",
+    "publishedAt": "2023-05-02T10:39:23Z",
+    "content": "Final Cut Pro on a Mac\r\nCreative professionals have a while longer to wait before being able to use Apple's \"Pro\" apps on an iPad, a leaker alleges, with a full version of Final Cut Pro due in 2024 a… [+1474 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew Orr)",
+    "title": "Samsung & LG investing billions to make OLED displays for future iPad & MacBook",
+    "description": "Samsung and LG are rushing to corner the market for midsize OLED panels and are investing billions into building new production lines for next-generation displays that have been rumored to appear in future iPad and Mac models.Samsung and LG hope to supply OLE…",
+    "url": "https://appleinsider.com/articles/23/05/02/samsung-lg-investing-billions-to-make-oled-displays-for-future-ipad-macbook",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54245-109373-silicon-wafer-xl.jpg",
+    "publishedAt": "2023-05-02T12:54:07Z",
+    "content": "Samsung and LG hope to supply OLED iPad and MacBook displays\r\nSamsung and LG are rushing to corner the market for midsize OLED panels and are investing billions into building new production lines for… [+2592 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Charles Martin)",
+    "title": "A Siri bug in the iOS 16.4.1 Calendar app is causing problems for vision impaired",
+    "description": "In iOS 16.4.1 and iPadOS 16.4.1, Siri cannot create or read back calendar events set on the 31st of a given month, causing problems for accessibility.Try it yourself. Tell Siri that you want to set an event for the 31st of any month.A strange bug in iOS 16.4.…",
+    "url": "https://appleinsider.com/articles/23/05/02/a-siri-bug-in-the-ios-1641-calendar-app-is-causing-problems-for-vision-impaired",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54222-109300-Siri-1641-bug-xl.jpg",
+    "publishedAt": "2023-05-02T13:30:41Z",
+    "content": "Try it yourself. Tell Siri that you want to set an event for the 31st of any month.\r\nIn iOS 16.4.1 and iPadOS 16.4.1, Siri cannot create or read back calendar events set on the 31st of a given month,… [+2162 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Andrew O'Hara)",
+    "title": "Amazon adds iOS setup, Thread support, and more for Matter devices",
+    "description": "On Tuesday, Amazon announced that is rolling out a new Matter update for Alexa that includes support for Thread, setup on iOS, and a new version of its Works with Alexa program.Alexa works better with MatterAfter launching as Android-only, Amazon is fulfillin…",
+    "url": "https://appleinsider.com/articles/23/05/02/amazon-adds-ios-setup-thread-support-and-more-for-matter-devices",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54250-109390-44683-86775-echo-show-kitchen-xl-xl.jpg",
+    "publishedAt": "2023-05-02T16:12:44Z",
+    "content": "Alexa works better with Matter\r\nOn Tuesday, Amazon announced that is rolling out a new Matter update for Alexa that includes support for Thread, setup on iOS, and a new version of its Works with Alex… [+1380 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Nathaniel Pangaro)",
+    "title": "EcoFlow Advanced Kit review: Power your whole house with batteries",
+    "description": "Batteries are replacing gasoline in not only cars but now generators. The EcoFlow Advanced Kit — comprised of two individual EcoFlow Delta Pros — is a prime example of the future of generator power.EcoFlow Delta Pro unit for Advanced KitThe Advanced Kit is a …",
+    "url": "https://appleinsider.com/articles/23/05/02/ecoflow-advanced-kit-review-power-your-whole-house-with-batteries",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/54205-109243-IMG_3088-xl.jpg",
+    "publishedAt": "2023-05-02T10:25:32Z",
+    "content": "EcoFlow Delta Pro unit for Advanced Kit\r\nBatteries are replacing gasoline in not only cars but now generators. The EcoFlow Advanced Kit — comprised of two individual EcoFlow Delta Pros — is a prime e… [+10850 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macworld"
+    },
+    "author": "Roman Loyola",
+    "title": "Apple and Google team up to stop stalkers from using AirTags",
+    "description": "Macworld\n\n\n\r\n\n\n\n\nOn Tuesday, Apple and Google announced a joint initiative to prevent the misuse of Bluetooth online tracking devices, such as Apple’s AirTag. The two companies have developed a specification that is being proposed as an industry standard for …",
+    "url": "https://www.macworld.com/article/1805692/apple-google-bluetooth-standard-airtag-trackers.html",
+    "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/05/apple-google-logo.png?w=1024",
+    "publishedAt": "2023-05-02T15:51:04Z",
+    "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nOn Tuesday, Apple an… [+2347 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": "Manuel Ramírez",
+    "title": "Google y Apple se alían por una fuerza mayor: detección de rastreadores de terceros tipo AirTag",
+    "description": "Por una vez Apple y Google se han unido para incorporar a sus sistemas operativos para móviles de una función que permitirá a sus usuarios saber si tienen cerca un dispositivo tipo AirTag.",
+    "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20230502/google-apple-fuerza-deteccion-rastreadores-terceros-airtag/760674108_0.html",
+    "urlToImage": "https://s1.eestatic.com/2023/05/02/elandroidelibre/noticias-y-novedades/760684395_232843936_1200x630.jpg",
+    "publishedAt": "2023-05-02T15:17:00Z",
+    "content": "Google ya anunció que estaba detrás de lanzar su propio AirTag para Android y también tenemos disponibles una serie de apps que nos alertan si un rastreador de este tipo ha sido colocado en el bolso … [+2144 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "小暮ひさのり",
+    "title": "GWですが緊急です。iPhoneやiPadへ「緊急セキュリティ対応」配信",
+    "description": "Screenshot:小暮ひさのりとはいえ、すぐにiPhoneぶっ壊れるとかいうのではありません。今朝方Appleから「緊急セキュリティ対応」なるアップデートがiPhone、iPad、Mac向けにリリースされました。アップデートでは、重要なセキュリティ修正が含まれているとのことで、すべてのユーザに推奨されるアップデートであるとのこと。iPhoneでは「iOS16.4.1（a）」のようにナンバーの後",
+    "url": "https://www.gizmodo.jp/2023/05/rapid-security-responses.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/05/02/1.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-05-02T05:30:00Z",
+    "content": "iPhone\r\nAppleiPhoneiPadMac\r\niPhoneiOS 16.4.1aa\r\nAppleiPhoneiPadmacRapid Security Responses\r\nScreenshot: \r\nSource: Apple via"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "そうこ",
+    "title": "高年利で注目のApple銀行、開設から1週間弱ですでに預金額は10億ドル",
+    "description": "Photo:Shutterstockネオバンク時代。先月17日、AppleはAppleCardユーザー向けに、普通預金口座サービスを発表しました（現時点では日本は対応外）。ゴールドマン・サックスとタッグを組んだネオバンク的取り組みで、4.15％という高い年利が発表後すぐに話題になりました。カードと口座と自社端末のエコシステムでAppleフィンテック最強説がささやかれていますが、やはり銀行口座も出だ",
+    "url": "https://www.gizmodo.jp/2023/05/apple-bank-has-1-billion-in-deposits.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/05/02/Apple-cards.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-05-02T10:30:00Z",
+    "content": "17AppleApple Card4.15\r\nAppleForbes1999005/21237\r\nForbesAppleGizmodoApple241\r\nAppleApple CardApple CardApple Card\r\nAppleApple CardiPhoneiOS 12.4iCloudApple IDApple\r\nAppleMacBook\r\nSource: Forbes"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Arthur Nicolle",
+    "title": "AIR : le film le plus attendu de Prime Video dévoile sa date de sortie",
+    "description": "Le projet de Ben Affleck et Matt Damon va prochainement faire son entrée sur la plateforme de streaming d'Amazon.\nAIR : le film le plus attendu de Prime Video dévoile sa date de sortie",
+    "url": "https://www.journaldugeek.com/2023/05/02/air-le-film-le-plus-attendu-de-prime-video-devoile-sa-date-de-sortie/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/05/air-jordan-amazon-prime-video-ben-affleck.jpg",
+    "publishedAt": "2023-05-02T10:30:43Z",
+    "content": "Le projet de Ben Affleck et Matt Damon va prochainement faire son entrée sur la plateforme de streaming d'Amazon.La mode est au biopic racontant l’histoire de grandes marques et autres monuments de l… [+2278 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Thomas Estimbre",
+    "title": "Test Xiaomi 13 : est-ce qu’on craque pour cet iPhone-killer ?",
+    "description": "Petit frère du Xiaomi 13 Pro, le Xiaomi 13 arrive avec l'étiquette de smartphone haut de gamme compact. Développé en collaboration avec Leica, il met l'accent sur la photo et les performances dans un design soigné. De quoi faire de l'ombre aux modèles phares …",
+    "url": "https://www.journaldugeek.com/?post_type=test&p=50408608",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/02/xiaomi-13-presentation-2.jpg",
+    "publishedAt": "2023-05-02T16:01:01Z",
+    "content": "Petit frère du Xiaomi 13 Pro, le Xiaomi 13 arrive avec l'étiquette de smartphone haut de gamme compact. Développé en collaboration avec Leica, il met l'accent sur la photo et les performances dans un… [+15611 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "MediaMarkt con su Gran Renove deja ofertas en dispositivos Apple: descuentos en iPhone 13 y 14, MacBook, Apple Watch y más",
+    "description": "MediaMarkt vuelve con otra campaña, el Gran Renove, con la que podemos ahorrarnos hasta 200 euros en artículos electrónicos, incluso los dispositivos de Apple entran en la promoción, por lo que hay iPhone, iPad, Apple Watch, Mac y AirPods de oferta hasta el 0…",
+    "url": "https://www.applesfera.com/seleccion/mediamarkt-su-gran-renove-deja-ofertas-dispositivos-apple-descuentos-iphone-13-14-macbook-apple-watch",
+    "urlToImage": "https://i.blogs.es/9eccd5/el-gran-renove-mediamarkt/840_560.jpeg",
+    "publishedAt": "2023-05-02T15:16:37Z",
+    "content": "MediaMarkt vuelve con otra campaña, el Gran Renove, con la que podemos ahorrarnos hasta 200 euros en artículos electrónicos, incluso los dispositivos de Apple entran en la promoción, por lo que hay i… [+4228 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Fran Bouzas",
+    "title": "La cuenta de ahorros de Apple ha triunfado: te devuelve un 4,15% y ya acumula más de 1.000 millones de dólares",
+    "description": "Apple es una empresa multifunción. Fabrica teléfonos, ordenadores, tablets, auriculares, relojes inteligentes, presta servicios, y un largo etcétera. Hace un tiempo la empresa anunció la Apple Card, y ahora ha ido un paso más allá y hace unos días lanzó su pr…",
+    "url": "https://www.applesfera.com/apple-1/cuenta-ahorros-apple-ha-triunfado-te-devuelve-4-15-acumula-1-000-millones-dolares",
+    "urlToImage": "https://i.blogs.es/a747c8/diseno-sin-titulo-44/840_560.jpeg",
+    "publishedAt": "2023-05-02T10:30:37Z",
+    "content": "Apple es una empresa multifunción. Fabrica teléfonos, ordenadores, tablets, auriculares, relojes inteligentes, presta servicios, y un largo etcétera. Hace un tiempo la empresa anunció la Apple Card, … [+2231 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Fran Bouzas",
+    "title": "Llega WatchOS 10 y trae la mayor actualización en la historia del Apple Watch: más widgets y menos dependencia de apps",
+    "description": "Solo quedan poco más de cuatro meses para el próximo gran evento de hardware de Apple. Entre medias tendremos la WWDC23, y aunque se podrían presentar las Reality Pro, o un nuevo MacBook Air, es una keynote fundamentalmente basada en software.\n<!-- BREAK 1 --…",
+    "url": "https://www.applesfera.com/rumores/llega-watchos-10-trae-mayor-actualizacion-historia-apple-watch-widgets-dependencia-apps",
+    "urlToImage": "https://i.blogs.es/03c1a4/10-2/840_560.jpeg",
+    "publishedAt": "2023-05-02T08:30:32Z",
+    "content": "Solo quedan poco más de cuatro meses para el próximo gran evento de hardware de Apple. Entre medias tendremos la WWDC23, y aunque se podrían presentar las Reality Pro, o un nuevo MacBook Air, es una … [+2004 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Se roban tantos coches en Nueva York que la policía ha recurrido a la solución más barata: regalar cientos de AirTags",
+    "description": "Como se suele decir, Nueva York es la ciudad que nunca duerme. Y eso hay que verlo desde el punto de vista positivo como el negativo: ser policía en esa ciudad puede ser una auténtica pesadilla. Y más si un reto que se hace viral en TikTok enseña a cualquiera…",
+    "url": "https://www.applesfera.com/airtag/se-roban-coches-nueva-york-que-policia-ha-recurrido-a-solucion-barata-regalar-cientos-airtags",
+    "urlToImage": "https://i.blogs.es/a7fc14/airtag-manhattan-nueva-york-apple/840_560.jpeg",
+    "publishedAt": "2023-05-02T11:30:37Z",
+    "content": "Como se suele decir, Nueva York es la ciudad que nunca duerme. Y eso hay que verlo desde el punto de vista positivo como el negativo: ser policía en esa ciudad puede ser una auténtica pesadilla. Y má… [+1986 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Fran Bouzas",
+    "title": "Apple se alía con Google para evitar los peligrosos rastreos con AirTags y otros productos: el primer paso hacia una tecnología más segura",
+    "description": "La tecnología es maravillosa. Nos permite crear realidades que antes se tachaban de ficción. Nos hace soñar, innovar y progresar. ¿A quién se le habría ocurrido hace cincuenta años que íbamos a poder hacer videollamadas con personas en la otra punta del mundo…",
+    "url": "https://www.applesfera.com/apple-1/apple-se-alia-google-para-evitar-peligrosos-rastreos-airtags-otros-productos-primer-paso-tecnologia-segura",
+    "urlToImage": "https://i.blogs.es/26c826/diseno-sin-titulo-45/840_560.jpeg",
+    "publishedAt": "2023-05-02T15:00:38Z",
+    "content": "La tecnología es maravillosa. Nos permite crear realidades que antes se tachaban de ficción. Nos hace soñar, innovar y progresar. ¿A quién se le habría ocurrido hace cincuenta años que íbamos a poder… [+3116 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "El MacBook Air de 15 pulgadas asoma la patita: Gurman ya no tiene dudas sobre su fecha",
+    "description": "A medida que se va agotando el tiempo de espera para la WWDC 2023 los rumores van librándose de flecos en forma de dudas. Mark Gurman ya no hace apuestas sobre las posibles fechas de presentación y/o lanzamiento de nuevos productos, hace afirmaciones.\n<!-- BR…",
+    "url": "https://www.applesfera.com/portatil/macbook-air-15-pulgadas-asoma-patita-gurman-no-tiene-dudas-su-fecha",
+    "urlToImage": "https://i.blogs.es/dbd8c7/1366_2000/840_560.jpeg",
+    "publishedAt": "2023-05-02T07:30:32Z",
+    "content": "A medida que se va agotando el tiempo de espera para la WWDC 2023 los rumores van librándose de flecos en forma de dudas. Mark Gurman ya no hace apuestas sobre las posibles fechas de presentación y/o… [+1407 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Isra Fdez",
+    "title": "Tu Android es tan resistente gracias a mi iPhone: así fue como Steve Jobs exigió tener lista en seis meses la mejor pantalla posible y Corning la fabricó",
+    "description": "\"Presentaremos un dispositivo que revolucionará internet, otro que lo hará con la comunicación y otro con la música\". En realidad solo bastó uno, el mismo que la revista Time tildó de invento del año: el iPhone. El 9 de enero de 2007 se demostró que los teléf…",
+    "url": "https://www.applesfera.com/curiosidades/tu-android-resistente-gracias-a-mi-iphone-asi-fue-como-steve-jobs-exigio-tener-lista-seis-meses-mejor-pantalla-posible-corning-fabrico",
+    "urlToImage": "https://i.blogs.es/f58c01/jobs-y-el-primer-iphone/840_560.jpeg",
+    "publishedAt": "2023-05-02T16:00:39Z",
+    "content": "\"Presentaremos un dispositivo que revolucionará internet, otro que lo hará con la comunicación y otro con la música\". En realidad solo bastó uno, el mismo que la revista Time tildó de invento del año… [+3797 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Olasubomi Gbenjo",
+    "title": "4 Ways to Transfer Files Between Your iPhone and Mac",
+    "description": "Apple makes it easy to transfer files between your iPhone and Mac, but don't limit yourself to one method.",
+    "url": "https://www.makeuseof.com/ways-to-transfer-files-between-iphone-and-mac/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/image-of-a-person-holding-an-iphone-in-front-of-a-macbook.jpeg",
+    "publishedAt": "2023-05-02T11:00:16Z",
+    "content": "If you own multiple Apple devices, you'd want to transfer files between your iPhone and Mac sometimes. Maybe because you can view certain files better on one device, or working on a file is easier on… [+4608 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Phandroid - News for Android"
+    },
+    "author": "Tyler Lee",
+    "title": "Your Pixel phone will soon be watching out for your ear health",
+    "description": "It appears that one of the features that Google is working on for its Pixel phones could come in the form of loud sound alerts.",
+    "url": "https://phandroid.com/2023/05/02/your-pixel-phone-will-soon-be-watching-out-for-your-ear-health/",
+    "urlToImage": null,
+    "publishedAt": "2023-05-02T09:06:04Z",
+    "content": "One of the features of the Apple Watch is the ability to let the wearer know when they are in an environment where the sound might be too loud. We dont really think about it, but long-term exposure t… [+1188 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Hadrien Augusto",
+    "title": "Apple : jamais un compte d’épargne n’a fait aussi fort",
+    "description": "Le récit des quatre premiers jours du Apple Savings, un compte d’épargne à haut rendement que beaucoup rêvent de voir arriver en France.",
+    "url": "https://www.presse-citron.net/apple-jamais-un-compte-depargne-na-fait-aussi-fort/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2023/05/apple-finance-carte.jpg",
+    "publishedAt": "2023-05-02T05:00:53Z",
+    "content": "Selon des sources proches du dossier interrogées par Forbes, le compte dépargne dApple lancé le 17 avril a connu un succès monstre, et ce dès les premières heures après son lancement. En moins de 24 … [+2765 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Setra",
+    "title": "Honor confirme son come-back en s’attaquant à Apple",
+    "description": "Honor veut s'attaquer à la force d'Apple : iOS.",
+    "url": "https://www.presse-citron.net/?p=551339",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2023/04/test-honor-magic5-pro-interface.jpg",
+    "publishedAt": "2023-05-02T07:00:07Z",
+    "content": "<ul><li>Honor continue son come-back</li><li>Celui-ci ambitionnerait de proposer un système d’exploitation meilleur quiOS</li><li>Le PDG Zhao Ming estimerait que la force d’Apple n’est pas l’iPhone, … [+4526 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Setra",
+    "title": "Le maire de New York est devenu fan des AirTags, il va en distribuer gratuitement",
+    "description": "À New York, la police va distribuer 500 AirTags gratuits (pour une bonne raison).",
+    "url": "https://www.presse-citron.net/?p=551423",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/12/airtag.jpg",
+    "publishedAt": "2023-05-02T11:30:32Z",
+    "content": "<ul><li>Face à la hausse des vols de voitures, la police de New York demande aux résidents déquiper leurs véhicules dAirTags</li><li>Celle-ci va même en distribuer gratuitement</li><li>En avril, la v… [+4694 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Jean-Yves Alric",
+    "title": "Bonne nouvelle : le bonus réparation de vos produits tech va doubler",
+    "description": "Le dispositif est on ne peut plus simple à utiliser, voici comment en bénéficier.",
+    "url": "https://www.presse-citron.net/?p=551346",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2021/11/iphone-repair.jpg",
+    "publishedAt": "2023-05-02T08:00:33Z",
+    "content": "<ul><li>Le bonus réparation proposé sur les produits high-tech depuis fin 2022 va être doublé prochainement</li><li>Le nombre de réparateurs agréé par le dispositif sera également revu à la hausse. A… [+2450 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Romain Vitt",
+    "title": "Le « www » a 30 ans : au fait, comment vivait-on avant internet ?",
+    "description": "Il y a 30 ans naissait la révolution internet avec l’ouverture du « www » au grand public. Une date qui a changé la face du monde. Mais au fait, comment vivait-on avant internet ?",
+    "url": "https://www.presse-citron.net/?p=551410",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/02/internet-annees-2000.jpg",
+    "publishedAt": "2023-05-02T16:00:29Z",
+    "content": "« Ce nest pas un rêve. Cest internet ». Voici les mots que prononçait Neal Conan au micro de la radio Morning Edition il y a 30 ans.\r\nÀ cette date naissait le « www » (World Wide Web), linternet tel … [+5092 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Martin Böckmann",
+    "title": "Windows on Arm: Kommt nach Apple jetzt das Microsoft-Silicon?",
+    "description": "Mit Windows 12 könnten Software und Hardware aus einer Hand kommen. Entsprechende Stellenanzeigen deuten darauf hin. (Microsoft, Prozessor)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fwindows-on-arm-kommt-nach-apple-jetzt-das-microsoft-silicon-2305-173859.html&referer=https%3A%2F%2Ft.co%2F7b964c3601",
+    "urlToImage": null,
+    "publishedAt": "2023-05-02T12:15:02Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The A.V. Club"
+    },
+    "author": "Mary Kate Carr",
+    "title": "Amanda Seyfried, Quinta Brunson, and more voice support for writers' strike on the Met Gala red carpet",
+    "description": "The writers’ strike is on. After negotiations failed between the Writers Guild of America and the Alliance of Motion Picture and Television Producers (AMPTP, which represents Netflix, Amazon, Apple, Disney, Discovery-Warner, NBC Universal, Paramount, and Sony…",
+    "url": "https://www.avclub.com/met-gala-2023-stars-express-support-for-wga-strike-1850394866",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ad4c34a6ca233e8b9296c0dcd325d66b.jpg",
+    "publishedAt": "2023-05-02T14:55:07Z",
+    "content": "The writers strike is on. After negotiations failed between the Writers Guild of America and the Alliance of Motion Picture and Television Producers (AMPTP, which represents Netflix, Amazon, Apple, D… [+3501 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Jalopnik"
+    },
+    "author": "José Rodríguez Jr.",
+    "title": "The 2024 Chevrolet Trax Proves Cheap is Fun and Cheap is Good",
+    "description": "The 2024 Trax is Chevrolet’s bid for the lower end of the new car market in the U.S. In fact, the Trax is now going to be the cheapest car Chevy sells in America, which brings the General hope that the new and improved version of its entry-level crossover can…",
+    "url": "https://jalopnik.com/the-2024-chevrolet-trax-proves-cheap-is-fun-and-cheap-i-1850390332",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ebd0cbfc414d1ed82f22c7582bc27813.jpg",
+    "publishedAt": "2023-05-02T13:00:00Z",
+    "content": "The 2024 Trax is Chevrolets bid for the lower end of the new car market in the U.S. In fact, the Trax is now going to be the cheapest car Chevy sells in America, which brings the General hope that th… [+6597 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ritholtz.com"
+    },
+    "author": "Barry Ritholtz",
+    "title": "Transcript: Benjamin Clymer & Jeffery Fowler, Hodinkee",
+    "description": "﻿   The transcript from this week’s, MiB: Benjamin Clymer and Jeffery Fowler of Hodinkee, is below. You can stream and download our full conversation, including any podcast extras, on iTunes, Spotify, Stitcher, Google, YouTube, and Bloomberg. All of our earli…",
+    "url": "https://ritholtz.com/2023/05/transcript-clymer-fowler/",
+    "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/02/Mib-tile.png",
+    "publishedAt": "2023-05-02T12:00:51Z",
+    "content": "The transcript from this weeks, MiB: Benjamin Clymer and Jeffery Fowler of Hodinkee, is below.\r\nYou can stream and download our full conversation, including any podcast extras, on iTunes, Spotify, St… [+129564 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "Apple and Google Are Joining Forces To Prevent AirTag Stalking",
+    "description": "Since launching its AirTag in 2021, Apple has been continuously attempting to combat unwanted tracking. While designed to work as a key finder, the AirTag lives on Apple’s Find My network and virtually anyone could use an AirTag to track someone without their…",
+    "url": "https://hypebeast.com/2023/5/apple-google-airtag-stalking-prevention",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2FApple-and-Google-Are-Joining-Forces-To-Prevent-AirTag-Stalking-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-05-02T15:47:11Z",
+    "content": "Since launching its AirTag in 2021, Apple has been continuously attempting to combat unwanted tracking. While designed to work as a key finder, the AirTag lives on Apples Find My network and virtuall… [+1346 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "C. Scott Brown",
+    "title": "Google and Apple team up, realizing location trackers are a big problem",
+    "description": "Google and Apple are rivals in the smartphone sphere, but they realize they'll need to work together to combat location tracker stalking.",
+    "url": "https://www.androidauthority.com/google-apple-location-trackers-3319530/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2021/05/Apple-AirTag-in-hand.jpg",
+    "publishedAt": "2023-05-02T14:45:17Z",
+    "content": "<ul><li>Google and Apple have partnered to create a draft specification related to notifications of unwanted tracking through Bluetooth trackers.</li><li>The companies want a universal notification s… [+2200 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Ryan McNeal",
+    "title": "Apple’s take on Android security patches is finally here",
+    "description": "Rapid Response will provide faster protection against vulnerabilities and exploits.",
+    "url": "https://www.androidauthority.com/apple-rapid-response-3319523/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2021/10/iPhone-13-Pro-apple-logo.jpg",
+    "publishedAt": "2023-05-02T15:19:26Z",
+    "content": "<ul><li>Rapid Security Response updates are slowly rolling out to Apple devices.</li><li>These updates are similar to Androids security patches that deliver fixes to exploits and vulnerabilities.</li… [+1821 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The A.V. Club"
+    },
+    "author": "Matt Schimkowitz",
+    "title": "Live from New York, it’s Jason Reitman directing a movie about SNL’s opening night",
+    "description": "Before the credits rolled on Jason Reitman’s Ghostbusters: Afterlife, a shot of the Ecto-1 driving through New York City seemingly set up a sequel where the new generation of feel-good busters could continue imprisoning specters of all stripes. However, Reitm…",
+    "url": "https://www.avclub.com/live-from-new-york-it-s-jason-reitman-directing-a-movi-1850393663",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e83b00abec3c832ac9ddbe7313d0a3d8.png",
+    "publishedAt": "2023-05-02T01:18:00Z",
+    "content": "Before the credits rolled on Jason Reitmans Ghostbusters: Afterlife, a shot of the Ecto-1 driving through New York City seemingly set up a sequel where the new generation of feel-good busters could c… [+1636 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The A.V. Club"
+    },
+    "author": "Matt Schimkowitz",
+    "title": "The Writers Guild of America is on strike",
+    "description": "After weeks of failed negotiations, the Writers Guild of America has announced they’re now on strike. The news hardly comes as a surprise. Like much of America’s shrinking-to-non-existent middle class, Hollywood writers, the ones who make The Flash go zoom an…",
+    "url": "https://www.avclub.com/the-writers-guild-of-america-is-on-strike-1850393917",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d0403a4276930ff1e36cab6155864eff.png",
+    "publishedAt": "2023-05-02T04:12:00Z",
+    "content": "After weeks of failed negotiations, the Writers Guild of America has announced theyre now on strike. The news hardly comes as a surprise. Like much of Americas shrinking-to-non-existent middle class,… [+3627 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "Samsung Issues Company-Wide Ban on ChatGPT and Google Bard",
+    "description": "Just the other day, the “Godfather of AI,” scientist Dr. Geoffrey Hinton, left his long-held position at Google over fears of the “scary” rapid advancements of the technology. Dr. Hinton isn’t alone in his thinking, with more people in the science and tech co…",
+    "url": "https://hypebeast.com/2023/5/samsung-company-ban-chatgpt-google-bard",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2FSamsung-Issues-Company-Wide-Ban-on-ChatGPT-and-Google-Bard-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-05-02T13:52:36Z",
+    "content": "Just the other day, the Godfather of AI, scientist Dr. Geoffrey Hinton, left his long-held position at Google over fears of the scary rapid advancements of the technology. Dr. Hinton isnt alone in hi… [+875 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "DIVINITIES Drops Second Collaboration with BoTT",
+    "description": "Building off of its first retro graphic-filled capsule collection back in 2020, DIVINITIES and BoTT are back with a second drop. This time around, the collection focuses on a monochromatic color scheme.Blending together various motifs, the collection gives an…",
+    "url": "https://hypebeast.com/2023/5/divinities-bott-second-collaboration-release-info",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Fdivinities-bott-second-collaboration-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-05-02T05:38:48Z",
+    "content": "Building off of its first retro graphic-filled capsule collection back in 2020, DIVINITIES and BoTT are back with a second drop. This time around, the collection focuses on a monochromatic color sche… [+1126 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Maren Estrada",
+    "title": "Today’s deals: $15 Amazon credit, rare Apple AirTag sale, $39 Ring Video Doorbell, more",
+    "description": "They say April showers bring May flowers, but this year all that rain washed in some terrific tech deals. Apple AirTag Bluetooth trackers have a …\nThe post Today’s deals: $15 Amazon credit, rare Apple AirTag sale, $39 Ring Video Doorbell, more appeared first …",
+    "url": "https://bgr.com/deals/todays-deals-15-amazon-credit-rare-apple-airtag-sale-39-ring-video-doorbell-more/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2023/04/BGR-Deals-Of-The-Day-2023-Tuesday.jpg?quality=82&strip=all",
+    "publishedAt": "2023-05-02T13:19:00Z",
+    "content": "If you buy through links on BGR, we may receive an affiliate commission. Learn more.They say April showers bring May flowers, but this year all that rain washed in some terrific tech deals. Apple Air… [+816 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Chris Smith",
+    "title": "14-inch iPad Pro tipped to feature powerful M3 Pro chip",
+    "description": "A leaker said a few days ago that Apple is working on a 14.1-inch iPad Pro to run a special version of iPadOS 17. The …\nThe post 14-inch iPad Pro tipped to feature powerful M3 Pro chip appeared first on BGR.",
+    "url": "https://bgr.com/tech/14-inch-ipad-pro-tipped-to-feature-powerful-m3-pro-chip/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2022/10/apple-ipad-pro-2022-5.jpg?quality=82&strip=all",
+    "publishedAt": "2023-05-02T10:50:00Z",
+    "content": "If you buy through links on BGR, we may receive an affiliate commission. Learn more.A leaker said a few days ago that Apple is working on a 14.1-inch iPad Pro to run a special version of iPadOS 17. T… [+2845 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "José Adorno",
+    "title": "Stop using these passwords right now, as they can be cracked in under a second",
+    "description": "Ahead of World Password Day, NordPass released the most common passwords on the internet in 2022. What’s interesting about this study is that 83% of …\nThe post Stop using these passwords right now, as they can be cracked in under a second appeared first on BG…",
+    "url": "https://bgr.com/tech/stop-using-these-passwords-right-now-as-they-can-be-cracked-in-under-a-second/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2023/05/mac-password-lock-screen-bgr.jpg?quality=82&strip=all",
+    "publishedAt": "2023-05-02T15:44:00Z",
+    "content": "If you buy through links on BGR, we may receive an affiliate commission. Learn more.Ahead of World Password Day, NordPass released the most common passwords on the internet in 2022. What’s interestin… [+2312 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Espinof.com"
+    },
+    "author": "Albertini",
+    "title": "Ni Fallon, ni Kimmel ni Corden. La huelga de guionistas de EEUU solo lleva pocas horas y ya se ha cobrado a sus primeras víctimas: los late-night shows",
+    "description": "Finalmente no ha habido acuerdo en la industria del cine y la televisión estadounidense y la WGA, el sindicato de guionistas del país ha iniciado finalmente una huelga por todo el país, efectiva desde esta pasada medianoche (tanto en hora de la costa Este com…",
+    "url": "https://www.espinof.com/presentadores/fallon-kimmel-corden-huelga-guionistas-eeuu-solo-lleva-pocas-horas-se-ha-cobrado-a-sus-primeras-victimas-late-night-shows",
+    "urlToImage": "https://i.blogs.es/7b667d/fallon/840_560.jpeg",
+    "publishedAt": "2023-05-02T06:38:48Z",
+    "content": "Finalmente no ha habido acuerdo en la industria del cine y la televisión estadounidense y la WGA, el sindicato de guionistas del país ha iniciado finalmente una huelga por todo el país, efectiva desd… [+1806 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Faz.net"
+    },
+    "author": "Thiemo Heeg",
+    "title": "Darum sind Smartphones doppelt so teuer wie 2015",
+    "description": "An der Inflation liegt es kaum: Für ein neues Internethandy müssen Konsumenten heute tief in die Tasche greifen. Aber wer klug kauft, kann kräftig sparen.",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/warum-smartphones-doppelt-so-teuer-wie-2015-sind-18860987.html",
+    "urlToImage": "https://media1.faz.net/ppmedia/aktuell/politik/3096230426/1.8860985/facebook_teaser_fplus/tendenz-steigend-im.jpg",
+    "publishedAt": "2023-05-02T04:24:58Z",
+    "content": "Manche Bereiche der Konsumelektronik haben sich in den vergangenen Jahren durch fallende Preise ausgezeichnet, unter anderem Fernsehgeräte. Ganz anders sieht es bei den Smartphones aus. Wer heute ein… [+750 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+    "title": "$1.8 billion Apple Watch lawsuit crumbles as mistrial called",
+    "description": "A lawsuit alleging Apple stole trade secrets for future Apple Watch sensors has been called as a mistrial after jurors failed to reach a verdict.",
+    "url": "https://www.imore.com/health-fitness/apple-watch/dollar18-billion-apple-watch-lawsuit-crumbles-as-mistrial-called",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/tVjGTZXaVqRVppf5aeLRWn-1200-80.jpg",
+    "publishedAt": "2023-05-02T15:24:04Z",
+    "content": "A lawsuit over claims that Apple stole trade secrets relating to sensors that ultimately found their way into the Apple Watch has been declared a mistrial after jurors failed to reach a unanimous ver… [+1675 chars]"
+    }
+    ]
+    }
