@@ -126,7 +126,7 @@ const [totalResults, setTotalResults] = useState(0 )
         >
           <div className="container">
             <div className="row ">
-              {articles.map((element, index) => {
+              {articles?.map((element, index) => {
                 return (
                   <div className="col-md-4" key={index}>
                     <Newsitem
