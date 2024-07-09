@@ -121,7 +121,7 @@ const [totalResults, setTotalResults] = useState(0 )
         <InfiniteScroll
           dataLength={articles?.length}
           next={fetchMoreData}
-          hasMore={articles.length !== totalResults}
+          hasMore={articles?.length !== totalResults}
           loader={<Spinner />}
         >
           <div className="container">
